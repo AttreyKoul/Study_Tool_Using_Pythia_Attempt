@@ -6,3 +6,4 @@ This is my attempt to make a study tool using pythia. It should be able to gener
 - Get Pythia to connect to a GPU
 - Fine Tune Pythia
 - Test on Notes
+- Add libraries(Should work with requirements.txt)
